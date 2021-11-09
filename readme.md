@@ -1,11 +1,11 @@
-# Hello!
+# Hello!  I'm Oleg.
 
 **I'm an aspiring self-taught front-end developer.🧙🏼‍♂️**  
 In the past, I have been working in Industrial and Civil engineering as a structural engineer and an Architect.
 As for now, I'm in the learning process of technologies used for frontend development such as Vue.js and TypeScript.
 ## More info about developer skills you can reach below!
 
-### Key Skills👨‍💻
+### Key Skills 👨‍💻
 * JavaScript (ES6+ standard)
 * GIT
 * CSS
@@ -26,7 +26,7 @@ As for now, I'm in the learning process of technologies used for frontend develo
 * MarkUpEasy
 
 ---
-### Pet-Projects
+### Pet-Projects 🐶
 - [App-Lab](https://insid1.github.io/AppLab_project/). Landing Page						[GitRepo](https://github.com/Insid1/AppLab_project)
 
 Small landing page with responsive design
@@ -50,7 +50,7 @@ with a specialization in `Soil Mechanics and Geotechnics`
 National Research University Moscow State University of Civil Engineering.
 
 ---
-### Extra information and serteficates📖
+### Extra information and certificates📖
 
 `JavaScript learning source:` [MDN](https://developer.mozilla.org/ru/), [Learn.JavaScript](https://learn.javascript.ru/).
 
