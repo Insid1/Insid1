@@ -16,6 +16,7 @@ As for now, I'm in the learning process of technologies used for frontend develo
 * GULP
 * Basic Algorithms and Data Structures
 
+---
 ### Extra Skills 🙌
 * English (Upper-Intermediate)
 * Python (v.3+)
@@ -24,8 +25,8 @@ As for now, I'm in the learning process of technologies used for frontend develo
 * AVOCODE
 * MarkUpEasy
 
+---
 ### Pet-Projects
-
 - [App-Lab](https://insid1.github.io/AppLab_project/). Landing Page						[GitRepo](https://github.com/Insid1/AppLab_project)
 
 Small landing page with responsive design
@@ -36,7 +37,7 @@ Javacript is used to create general dynamic of the webPage and interactive user 
 
 Design: PSD [layout](https://dribbble.com/shots/8641810-Freebie-App-landing-page).
 
-
+---
 ### Education🧑🏼‍⚖️
 
 - **MASTER OF SCIENCE** (2018-2020гг.) – `«Civil Engineering»`  
