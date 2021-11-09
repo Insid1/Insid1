@@ -5,8 +5,7 @@ In the past, I have been working in Industrial and Civil engineering as a struct
 As for now, I'm in the learning process of technologies used for frontend development such as Vue.js and TypeScript.
 ## More info about developer skills you can reach below!
 
----
-**Key Skills👨‍💻**
+### Key Skills👨‍💻
 * JavaScript (ES6+ standard)
 * GIT
 * CSS
@@ -16,16 +15,16 @@ As for now, I'm in the learning process of technologies used for frontend develo
 * HTML
 * GULP
 * Basic Algorithms and Data Structures
----
-**Extra Skills 🙌**
+
+### Extra Skills 🙌
 * English (Upper-Intermediate)
 * Python (v.3+)
 * JSON
 * FIGMA
 * AVOCODE
 * MarkUpEasy
----
-**Pet-Projects**
+
+### Pet-Projects
 
 - [App-Lab](https://insid1.github.io/AppLab_project/). Landing Page						[GitRepo](https://github.com/Insid1/AppLab_project)
 
@@ -37,8 +36,8 @@ Javacript is used to create general dynamic of the webPage and interactive user 
 
 Design: PSD [layout](https://dribbble.com/shots/8641810-Freebie-App-landing-page).
 
----
-**Education🧑🏼‍⚖️**
+
+### Education🧑🏼‍⚖️
 
 - **MASTER OF SCIENCE** (2018-2020гг.) – `«Civil Engineering»`  
 with a specialization in `Structural mechanics`  
@@ -50,7 +49,7 @@ with a specialization in `Soil Mechanics and Geotechnics`
 National Research University Moscow State University of Civil Engineering.
 
 ---
-**Extra information and serteficates📖**
+### Extra information and serteficates📖
 
 `JavaScript learning source:` [MDN](https://developer.mozilla.org/ru/), [Learn.JavaScript](https://learn.javascript.ru/).
 
