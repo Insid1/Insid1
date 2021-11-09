@@ -3,7 +3,7 @@
 **I'm an aspiring self-taught front-end developer.🧙🏼‍♂️**  
 In the past, I have been working in Industrial and Civil engineering as a structural engineer and an Architect.
 As for now, I'm in the learning process of technologies used for frontend development such as Vue.js and TypeScript.
-## More info about developer skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/CV_En.pdf) Version!
+## More info about developer skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf) Version!
 
 ### Key Skills 👨‍💻
 * JavaScript (ES6+ standard)
