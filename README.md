@@ -6,13 +6,13 @@ As for now, I'm in the learning process of technologies used for frontend develo
 
 ## More info about developer skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf) Version
 
----
-
 ### Contact me
 
 * [Telegram](https://t.me/oleeeeeeeeeeg)
 * [LinkedIn](https://www.linkedin.com/in/oleg-volobuev-aa6898153/)
 * [Email](mailto:VolobuevBP@ya.ru)
+
+---
 
 ### Key Skills 👨‍💻
 
@@ -96,10 +96,10 @@ National Research University Moscow State University of Civil Engineering.
 
 `Not related job experience you may see on my [LinkedIn](https://www.linkedin.com/in/oleg-volobuev-aa6898153/) profile.`
 
-`JavaScript learning source:`[React Developer Profession](https://htmlacademy.ru/profession/react) [MDN](https://developer.mozilla.org/ru/), [Learn.JavaScript](https://learn.javascript.ru/).
+`JavaScript learning source:`[React Developer Profession](https://htmlacademy.ru/profession/react), [MDN](https://developer.mozilla.org/ru/), [Learn.JavaScript](https://learn.javascript.ru/).
 
 `Computer Science + Python learning source (Certificates):`
-[ReactDeveloper](https://htmlacademy.ru/profile/id1954459)
+[ReactDeveloper](https://htmlacademy.ru/profile/id1954459), 
 [Introduction to Computer Science and Programming](https://courses.edx.org/certificates/73e17081e08e49d598fce4b9b58fa032);
 
 [Using Databases with Python](https://coursera.org/share/3a83d44e866bd8e499dba03024b1117f), [Using Python to Access Web Data, Python Data Structures](https://www.coursera.org/learn/python-network-data); [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://coursera.org/share/0d162f33e0b5a0c3cff9c23fa3c62b38)
