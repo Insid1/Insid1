@@ -2,7 +2,12 @@
 
 **I'm an aspiring self-taught front-end developer.🧙🏼‍♂️**  
 In the past, I have been working in Industrial and Civil engineering as a structural engineer and an Architect.
-As for now, I'm in the learning process of technologies used for frontend development such as React and TypeScript. Currently passing last part of async [Profession React Developer](https://htmlacademy.ru/profession/react), which includes 3 complex courses as [Professional development of web interfaces using JavaScript](https://htmlacademy.ru/intensive/javascript), [Architecture of client applications](https://htmlacademy.ru/intensive/ecmascript), [Development of complex client applications](https://htmlacademy.ru/intensive/react).
+As for now, I'm Looking for job as FrontEnd Developer. All acquired skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf).
+In early May of 2022, I have passed async [Profession React Developer](https://htmlacademy.ru/profession/react), which includes 3 complex courses as:
+
+* [Professional development of web interfaces using JavaScript](https://htmlacademy.ru/intensive/javascript);
+* [Architecture of client applications](https://htmlacademy.ru/intensive/ecmascript);
+* [Development of complex client applications using React](https://htmlacademy.ru/intensive/react).
 
 ## More info about developer skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf) Version
 
@@ -18,19 +23,27 @@ As for now, I'm in the learning process of technologies used for frontend develo
 
 * JavaScript (ES6+ standard)
 * WebPack
-* External API and libraries (leaflet, flatpickr, lodash, dayjs, chartjs)
-* MVP(MVC) Architecture
-* React
+* React (RCC & RFC)
+* React router
 * Redux
+* Redux Toolkit
+* Axios
 * Fetch API
 * REST API
 * DOM API
+* Jest
+* React Testing Library
 * GIT
+* Flux
+* MVP(MVC) Architecture
 * HTML
-* CSS
 * SCSS/SASS
+* CSS
+* External API and libraries (leaflet, flatpickr, lodash, dayjs, chartjs)
+* ESLint
 * BEM methodology
 * Responsive Design
+* Unit testing
 * Basic Algorithms and Data Structures
 
 ---
@@ -49,6 +62,15 @@ As for now, I'm in the learning process of technologies used for frontend develo
 ---
 
 ### Pet-Projects 🐶
+
+* [SixCities](http://six-cities-gamma.vercel.app/). React App
+[GitRepo](https://github.com/Insid1/Six_Cities)
+
+Six Cities is a service for travelers . Choose one of the six popular cities to travel to and get an up-to-date list of rental offers. Detailed information about housing, the display of the object on the map, as well as the concise interface of the service will help you quickly choose the best offer.
+
+`Stack: React, Redux, JavaScript ES6, Jest, React Testing Library, Axios, WebPack, CSS3, HTML5, Leaflet`
+
+Design and Specification: [HTMLACADEMY](https://htmlacademy.ru/).
 
 * [BigTrip](https://insid1.github.io/Big_Trip/). SPA
 [GitRepo](https://github.com/Insid1/Big_Trip)
