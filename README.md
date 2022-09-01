@@ -21,41 +21,51 @@ In early May of 2022, I have passed async [Profession React Developer](https://h
 
 ### Key Skills 👨‍💻
 
+#### Languagues
+
 - JavaScript (ES6+ standard)
 - TypeScript
-- WebPack
+- Java Core
+- JSP
+- Python (v.3+)
+- HTML
+- SCSS/SASS
+- CSS
+- Node.Js
+
+#### Technologies
+
 - React (RCC & RFC)
 - React router
 - Redux
 - Redux Toolkit
+- WebPack
 - Axios
+- GIT
 - Fetch API
 - REST API
 - DOM API
+- External API and libraries (leaflet, flatpickr, lodash, dayjs, chartjs)
 - Jest
 - React Testing Library
-- GIT
+- ESLint
+- Responsive Design
+- Docker
+- Basic Algorithms and Data Structures
+- GULP
+- npm
+
+#### Patterns
+
 - Flux
 - MVP(MVC) Architecture
-- HTML
-- SCSS/SASS
-- CSS
-- External API and libraries (leaflet, flatpickr, lodash, dayjs, chartjs)
-- ESLint
 - BEM methodology
-- Responsive Design
-- Unit testing
-- Basic Algorithms and Data Structures
 
 ---
 
 ### Extra Skills 🙌
 
 - English B2 (Upper-Intermediate)
-- Python (v.3+)
-- GULP
-- npm
-- JSON
 - FIGMA
 - AVOCODE
 - MarkUpEasy
@@ -64,7 +74,25 @@ In early May of 2022, I have passed async [Profession React Developer](https://h
 
 ### Pet-Projects 🐶
 
+- [Escape Room](https://github.com/Insid1/escape_room). React App
+  [GitRepo](https://github.com/Insid1/escape_room)
+
+Escape Room — SPA for company that works with offline quests with different levels of complexity and thematic.
+
+`Stack: TypeScript, React, Redux, ReduxToolKit, react-hook-form, StyledComponents, Axios, WebPack, Lodash, EsLint, JSONServer, leaflet, re-reselect`
+
+- [Rock and Morty](http://rick-and-morty-app-mu.vercel.app/). React App
+
+  [GitRepo](https://github.com/Insid1/Rick-and-morty-app)
+
+Application to navigate through Rick and morty characters, episodes and locations
+
+`Stack: React, Redux, ReduxToolKit, Material UI, TypeScript, Axios, WebPack, Lodash, EsLint`
+
+Design and Specification: [Mob Programming Team](https://www.figma.com/file/H8oxWrehpx3pdNGwy9xmUH/Rick-and-Morty-(web-responsive)-(Community)?node-id=17%3A74).
+
 - [SixCities](http://six-cities-gamma.vercel.app/). React App
+
   [GitRepo](https://github.com/Insid1/Six_Cities)
 
 Six Cities is a service for travelers . Choose one of the six popular cities to travel to and get an up-to-date list of rental offers. Detailed information about housing, the display of the object on the map, as well as the concise interface of the service will help you quickly choose the best offer.
