@@ -2,7 +2,7 @@
 
 **I'm an aspiring self-taught front-end developer.🧙🏼‍♂️**  
 In the past, I have been working in Industrial and Civil engineering as a structural engineer and an Architect.
-As for now, I'm Looking for job as FrontEnd Developer. All acquired skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf).
+As for now, I'm currently working as FrontEnd Developer. All acquired skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf).
 In early May of 2022, I have passed async [Profession React Developer](https://htmlacademy.ru/profession/react), which includes 3 complex courses as:
 
 - [Professional development of web interfaces using JavaScript](https://htmlacademy.ru/intensive/javascript);
