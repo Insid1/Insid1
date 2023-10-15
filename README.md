@@ -2,7 +2,7 @@
 
 **I'm an aspiring self-taught front-end developer.🧙🏼‍♂️**  
 In the past, I have been working in Industrial and Civil engineering as a structural engineer and an Architect.
-As for now, I'm Looking for job as Fullstack Developer. All acquired skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf).
+As for now, I'm working as Fullstack Developer.
 
 ## More info about developer skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf) Version
 
