@@ -2,7 +2,7 @@
 
 **I'm an aspiring self-taught front-end developer.🧙🏼‍♂️**  
 In the past, I have been working in Industrial and Civil engineering as a structural engineer and an Architect.
-As for now, I'm working as Fullstack Developer.
+As for now, I'm working as Fullstack Developer. JB Request ID - 5639014
 
 ## More info about developer skills you can reach below or in [PDF](https://github.com/Insid1/Insid1/blob/master/CV_En.pdf) Version
 
@@ -10,7 +10,7 @@ As for now, I'm working as Fullstack Developer.
 
 - [Telegram](https://t.me/oleeeeeeeeeeg)
 - [LinkedIn](https://www.linkedin.com/in/oleg-volobuev-aa6898153/)
-- [Email](mailto:VolobuevBP@ya.ru)
+- [Email](mailto:insid95@gmail.com)
 
 ---
 
@@ -20,50 +20,46 @@ As for now, I'm working as Fullstack Developer.
 
 - JavaScript (ES6+ standard)
 - TypeScript
+- GoLang
 - Java Core
 - JSP
 - Python (v.3+)
-- HTML
-- SCSS/SASS
-- CSS
-- Node.Js
+- HTML CSS
 
 #### Technologies
 
 - React (RCC & RFC)
-- React router
-- Redux
-- Redux Toolkit
-- WebPack
+- NodeJs
+- Express
+- Nest
+- Next
+- Redux Toolkit + query
+- WebPack + module federation
 - Axios
 - GIT
-- Fetch API
+- GraphQL
 - REST API
-- DOM API
-- External API and libraries (leaflet, flatpickr, lodash, dayjs, chartjs)
 - Jest
 - React Testing Library
 - ESLint
 - Responsive Design
 - Docker
 - Basic Algorithms and Data Structures
-- GULP
-- npm
 
 #### Patterns
 
-- Flux
 - MVP(MVC) Architecture
+- MVVM Architecture
+- FSD Architecture
+- Flux
 - BEM methodology
 
 ---
 
 ### Extra Skills 🙌
 
-- English B2 (Upper-Intermediate)
+- English C1
 - FIGMA
-- AVOCODE
-- MarkUpEasy
 
 ---
 
