@@ -8,8 +8,8 @@ As for now, I'm working as Sofware Developer in Bigtech. JB Request ID - 5639014
 ### Contact me
 
 - [Telegram](https://t.me/oleeeeeeeeeeg)
-- [LinkedIn](https://www.linkedin.com/in/oleg-volobuev-aa6898153/)
-- [Email](mailto:insid95@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/oleg-volobuev-53b463261/)
+- [Email](mailto:olegvolobuev95@gmail.com)
 
 ---
 
@@ -17,14 +17,14 @@ As for now, I'm working as Sofware Developer in Bigtech. JB Request ID - 5639014
 
 #### Languagues
 
+- Golang
+- Java
 - JavaScript (ES6+ standard)
 - TypeScript
-- GoLang
 - C/CPP
-- Java Core
-- JSP
+- Lua
 - Python (v.3+)
-- HTML CSS
+- HTML5, CSS3
 
 #### Technologies
 
@@ -46,12 +46,13 @@ As for now, I'm working as Sofware Developer in Bigtech. JB Request ID - 5639014
 - Docker
 - k8s
 - Basic Algorithms and Data Structures
-- Postgre
+- Postgres
 
 #### Patterns
 
 - MVP(MVC) Architecture
 - MVVM Architecture
+- Clean architecture
 - FSD Architecture
 
 ---
